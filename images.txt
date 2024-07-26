@@ -1,1 +1,1 @@
-blakeblackshear/frigate:stable
+ghcr.io/blakeblackshear/frigate:stable
