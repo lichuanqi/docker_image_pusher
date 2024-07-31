@@ -1,7 +1,9 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
 # homeassistant/home-assistant:2024.7
-ghcr.io/imagegenius/immich:latest
-portainer/portainer-ce:2.20.2
-emqx/emqx:5.7.1
-redis:latest
+# ghcr.io/imagegenius/immich:latest
+# portainer/portainer-ce:2.20.2
+# emqx/emqx:5.7.1
+# redis:latest
+p3terx/aria2-pro:latest
+p3terx/ariang:latest
