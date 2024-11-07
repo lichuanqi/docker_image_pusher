@@ -2,8 +2,8 @@
 # linkease/ddnsto:3.0.0
 # homeassistant/home-assistant:2024.10
 # ghcr.io/imagegenius/immich:latest
-# portainer/portainer-ce:2.20.2
-grafana/grafana-enterprise:11.3.0-ubuntu
+portainer/portainer-ce:2.21.4
+# grafana/grafana-enterprise:11.3.0-ubuntu
 # emqx/emqx:5.7.1
 # redis:latest
 # p3terx/aria2-pro:latest
