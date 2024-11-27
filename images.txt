@@ -2,12 +2,13 @@
 # linkease/ddnsto:3.0.0
 # homeassistant/home-assistant:2024.10
 # ghcr.io/imagegenius/immich:latest
-portainer/portainer-ce:2.21.4
+# portainer/portainer-ce:2.21.4
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # emqx/emqx:5.7.1
-# redis:latest
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
 # gitea/gitea:1.22.3
 # gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
+# redis:latest
+python:3.10-slim-bookworm
