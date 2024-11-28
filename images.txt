@@ -10,5 +10,6 @@
 # gitea/gitea:1.22.3
 # gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
+kibana:8.16.1
 # redis:latest
-python:3.10-slim-bookworm
+# python:3.10-slim-bookworm
