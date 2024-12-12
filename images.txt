@@ -1,13 +1,13 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-homeassistant/home-assistant:2024.12
+# homeassistant/home-assistant:2024.12
 # ghcr.io/imagegenius/immich:latest
 # portainer/portainer-ce:2.24.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
-# gitea/gitea:1.22.2
+gitea/gitea:1.22.5
 # gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
 # kibana:8.15.0
