@@ -1,6 +1,6 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-# homeassistant/home-assistant:2025.2
+homeassistant/home-assistant:2025.2
 # ghcr.io/imagegenius/immich:latest
 # portainer/portainer-ce:2.24.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
