@@ -1,9 +1,7 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-homeassistant/home-assistant:2025.2
+# homeassistant/home-assistant:2025.2
 # ghcr.io/imagegenius/immich:latest
-# portainer/portainer-ce:2.24.0
-# grafana/grafana-enterprise:11.3.0-ubuntu
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
@@ -12,4 +10,11 @@ homeassistant/home-assistant:2025.2
 # elasticsearch:8.15.0
 # kibana:8.15.0
 # redis:latest
+
+# 运维
+# portainer/portainer-ce:2.24.0
+# grafana/grafana-enterprise:11.3.0-ubuntu
+
+# 开发
 # python:3.10-slim-bookworm
+nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
