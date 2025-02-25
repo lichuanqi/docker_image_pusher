@@ -1,6 +1,7 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
 # homeassistant/home-assistant:2025.2
+ghcr.io/music-assistant/server:latest
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
@@ -12,7 +13,7 @@
 # redis:latest
 
 # 运维
-portainer/portainer-ce:2.27.0
+# portainer/portainer-ce:2.27.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
 
 # 开发
