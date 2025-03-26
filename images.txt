@@ -1,7 +1,7 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
 # homeassistant/home-assistant:2025.2
-ghcr.io/music-assistant/server:latest
+# ghcr.io/music-assistant/server:latest
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
@@ -15,6 +15,9 @@ ghcr.io/music-assistant/server:latest
 # 运维
 # portainer/portainer-ce:2.27.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
+prom/prometheus
+prom/node-exporter
+prom/mysqld-exporter
 
 # 开发
 # python:3.10-slim-bookworm
