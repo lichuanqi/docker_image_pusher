@@ -14,7 +14,7 @@
 
 # 运维
 # portainer/portainer-ce:2.27.0
-portainer/agent:2.27.0
+# portainer/agent:2.27.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
 # prom/node-exporter
@@ -23,3 +23,6 @@ portainer/agent:2.27.0
 # 开发
 # python:3.10-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
+
+# 大模型
+vllm/vllm-openai:latest
