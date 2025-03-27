@@ -6,7 +6,7 @@
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
-gitea/gitea:1.23.6
+# gitea/gitea:1.23.6
 # gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
 # kibana:8.15.0
@@ -14,6 +14,7 @@ gitea/gitea:1.23.6
 
 # 运维
 # portainer/portainer-ce:2.27.0
+portainer/agent:2.27.0
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
 # prom/node-exporter
