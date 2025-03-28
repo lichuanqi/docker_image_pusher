@@ -25,4 +25,5 @@
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
 
 # 大模型
-vllm/vllm-openai:latest
+xprobe/xinference:latest
+# vllm/vllm-openai:latest
