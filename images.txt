@@ -1,6 +1,6 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-homeassistant/home-assistant:2025.4
+# homeassistant/home-assistant:2025.4
 # ghcr.io/music-assistant/server:latest
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
@@ -21,6 +21,7 @@ homeassistant/home-assistant:2025.4
 # prom/mysqld-exporter
 
 # 开发
+node:18.0
 # python:3.10-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
 
