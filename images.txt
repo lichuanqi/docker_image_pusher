@@ -11,6 +11,9 @@
 # elasticsearch:8.15.0
 # kibana:8.15.0
 # redis:latest
+matomo:5.3.1
+justsong/one-api:v0.6.11-preview.7
+
 
 # 运维
 # portainer/portainer-ce:2.27.0
@@ -21,11 +24,12 @@
 # prom/mysqld-exporter
 # nginx/nginx-prometheus-exporter
 
+
 # 开发
 # ubuntu:22.04
 # node:18.0
-caddy:2.9.1
-nginx:1.27
+# caddy:2.9.1
+# nginx:1.27
 # python:3.10-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
 
