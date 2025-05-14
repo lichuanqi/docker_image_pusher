@@ -37,3 +37,4 @@
 # xprobe/xinference:latest
 # vllm/vllm-openai:latest
 calciumion/new-api:v0.7.1
+justsong/one-api:v0.6.11-preview.7
