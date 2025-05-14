@@ -1,12 +1,12 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-homeassistant/home-assistant:2025.5
+# homeassistant/home-assistant:2025.5
 # ghcr.io/music-assistant/server:latest
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
-gitea/gitea:1.23.7
+# gitea/gitea:1.23.7
 # gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
 # kibana:8.15.0
@@ -36,3 +36,4 @@ gitea/gitea:1.23.7
 # 大模型
 # xprobe/xinference:latest
 # vllm/vllm-openai:latest
+calciumion/new-api:v0.7.1
