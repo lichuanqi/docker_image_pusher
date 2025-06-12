@@ -1,7 +1,6 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-# homeassistant/home-assistant:2025.5
-# ghcr.io/music-assistant/server:latest
+homeassistant/home-assistant:2025.6
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
@@ -12,7 +11,6 @@
 # kibana:8.15.0
 # redis:latest
 # matomo:5.3.1
-# justsong/one-api:v0.6.11-preview.7
 
 
 # 运维
@@ -36,5 +34,5 @@
 # 大模型
 # xprobe/xinference:latest
 # vllm/vllm-openai:latest
-calciumion/new-api:v0.8.2.0
-justsong/one-api:v0.6.11-preview.7
+# calciumion/new-api:v0.8.2.0
+# justsong/one-api:v0.6.11-preview.7
