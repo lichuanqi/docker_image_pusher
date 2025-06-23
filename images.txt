@@ -1,6 +1,6 @@
 # ghcr.io/blakeblackshear/frigate:stable
 # linkease/ddnsto:3.0.0
-homeassistant/home-assistant:2025.6
+# homeassistant/home-assistant:2025.6
 # ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
@@ -34,5 +34,5 @@ homeassistant/home-assistant:2025.6
 # 大模型
 # xprobe/xinference:latest
 # vllm/vllm-openai:latest
-# calciumion/new-api:v0.8.2.0
+calciumion/new-api:v0.8.6.2
 # justsong/one-api:v0.6.11-preview.7
