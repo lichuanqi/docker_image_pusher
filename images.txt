@@ -14,8 +14,8 @@
 
 
 # 运维
-# portainer/portainer-ce:2.27.0
-# portainer/agent:2.27.0
+portainer/portainer-ce:2.31.3
+portainer/agent:2.31.3
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
 # prom/node-exporter
@@ -34,5 +34,5 @@
 # 大模型
 # xprobe/xinference:latest
 # vllm/vllm-openai:latest
-calciumion/new-api:v0.8.6.2
+# calciumion/new-api:v0.8.6.2
 # justsong/one-api:v0.6.11-preview.7
