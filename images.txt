@@ -11,11 +11,12 @@
 # kibana:8.15.0
 # redis:latest
 # matomo:5.3.1
+mpromonet/v4l2onvif:latest
 
 
 # 运维
-portainer/portainer-ce:2.31.3
-portainer/agent:2.31.3
+# portainer/portainer-ce:2.31.3
+# portainer/agent:2.31.3
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
 # prom/node-exporter
