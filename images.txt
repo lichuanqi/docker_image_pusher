@@ -1,7 +1,5 @@
-# ghcr.io/blakeblackshear/frigate:stable
+
 # linkease/ddnsto:3.0.0
-# homeassistant/home-assistant:2025.6
-# ghcr.io/imagegenius/immich:latest
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
@@ -11,8 +9,15 @@
 # kibana:8.15.0
 # redis:latest
 # matomo:5.3.1
-mpromonet/v4l2onvif:latest
 
+
+# 智能家居
+# homeassistant/home-assistant:2025.6
+# ghcr.io/blakeblackshear/frigate:stable
+# mpromonet/v4l2onvif:latest
+# ghcr.io/imagegenius/immich:latest
+rhasspy/wyoming-piper:1.6.3
+rhasspy/wyoming-whisper:2.5.0
 
 # 运维
 # portainer/portainer-ce:2.31.3
