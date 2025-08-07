@@ -12,7 +12,7 @@
 
 
 # 智能家居
-homeassistant/home-assistant:2025.8.0
+homeassistant/home-assistant:2025.8
 # ghcr.io/blakeblackshear/frigate:stable
 # mpromonet/v4l2onvif:latest
 # ghcr.io/imagegenius/immich:latest
