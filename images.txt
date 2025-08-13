@@ -12,12 +12,13 @@
 
 
 # 智能家居
-homeassistant/home-assistant:2025.8
+# homeassistant/home-assistant:2025.8
 # ghcr.io/blakeblackshear/frigate:stable
 # mpromonet/v4l2onvif:latest
 # ghcr.io/imagegenius/immich:latest
 # rhasspy/wyoming-piper:1.6.3
 # rhasspy/wyoming-whisper:2.5.0
+umamisoftware/umami:postgresql-v2.19.0
 
 # 运维
 # portainer/portainer-ce:2.31.3
