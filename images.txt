@@ -12,7 +12,7 @@
 
 
 # 智能家居
-homeassistant/home-assistant:2025.8
+# homeassistant/home-assistant:2025.8
 # ghcr.io/blakeblackshear/frigate:stable
 # mpromonet/v4l2onvif:latest
 # ghcr.io/imagegenius/immich:latest
@@ -21,7 +21,7 @@ homeassistant/home-assistant:2025.8
 # umamisoftware/umami:postgresql-v2.19.0
 
 # 运维
-# portainer/portainer-ce:2.31.3
+portainer/portainer-ce:2.33.0
 # portainer/agent:2.31.3
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
