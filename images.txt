@@ -21,7 +21,7 @@
 # umamisoftware/umami:postgresql-v2.19.0
 
 # 运维
-portainer/portainer-ce:2.33.0
+# portainer/portainer-ce:2.33.0
 # portainer/agent:2.31.3
 # grafana/grafana-enterprise:11.3.0-ubuntu
 # prom/prometheus
@@ -39,7 +39,7 @@ portainer/portainer-ce:2.33.0
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
 
 # 大模型
-# xprobe/xinference:latest
+xprobe/xinference:v1.9.0
 # vllm/vllm-openai:latest
 # calciumion/new-api:v0.8.6.2
 # justsong/one-api:v0.6.11-preview.7
