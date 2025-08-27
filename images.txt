@@ -3,13 +3,10 @@
 # emqx/emqx:5.7.1
 # p3terx/aria2-pro:latest
 # p3terx/ariang:latest
-# gitea/gitea:1.23.7
-# gitea/act_runner:0.2.10
 # elasticsearch:8.15.0
 # kibana:8.15.0
 # redis:latest
 # matomo:5.3.1
-
 
 # 智能家居
 # homeassistant/home-assistant:2025.8
@@ -29,7 +26,6 @@
 # prom/mysqld-exporter
 # nginx/nginx-prometheus-exporter
 
-
 # 开发
 # ubuntu:22.04
 # node:18.0
@@ -37,9 +33,12 @@
 # nginx:1.27
 # python:3.10-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
+justusbunsi/gitea-sonarqube-bot:v0.4.0
+# gitea/gitea:1.23.7
+# gitea/act_runner:0.2.10
 
 # 大模型
-xprobe/xinference:v1.9.0
+# xprobe/xinference:v1.9.0
 # vllm/vllm-openai:latest
 # calciumion/new-api:v0.8.6.2
 # justsong/one-api:v0.6.11-preview.7
