@@ -36,7 +36,8 @@
 # gitea/gitea:1.23.7
 # gitea/act_runner:0.2.10
 # justusbunsi/gitea-sonarqube-bot:v0.4.0
-renovate/renovate:41.87.4-full
+# renovate/renovate:41.87.4-full
+mc1arke/sonarqube-with-community-branch-plugin:25.6.0.109173-community
 
 # 大模型
 # xprobe/xinference:v1.9.0
