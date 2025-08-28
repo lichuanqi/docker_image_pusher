@@ -33,9 +33,10 @@
 # nginx:1.27
 # python:3.10-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
-justusbunsi/gitea-sonarqube-bot:v0.4.0
 # gitea/gitea:1.23.7
 # gitea/act_runner:0.2.10
+# justusbunsi/gitea-sonarqube-bot:v0.4.0
+renovate/renovate:41.87.4-full
 
 # 大模型
 # xprobe/xinference:v1.9.0
