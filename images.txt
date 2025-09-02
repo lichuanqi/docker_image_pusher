@@ -28,10 +28,10 @@
 
 # 开发
 # ubuntu:22.04
-node:20.19.4-bookworm
+# node:20.19.4-bookworm
 # caddy:2.9.1
 # nginx:1.27
-# python:3.10-slim-bookworm
+python:3.11-slim-bookworm
 # nvidia/cuda:11.6.2-cudnn8-runtime-ubuntu20.04
 # gitea/gitea:1.23.7
 # gitea/act_runner:0.2.12
